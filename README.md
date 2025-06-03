@@ -1,9 +1,8 @@
 # Olá! 👋 Bem vindo ao meu profile! 👋
 
-#
-
-## 👀 Sobre mim
-**Python** e **C++** são minhas linguagens principais, porém trabalho com **Lua**.
+## 🗼 Skills
+<i class="devicon-cplusplus-plain"></i>
+          
 
 > "Conhecimento é poder."
 
