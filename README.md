@@ -1,8 +1,9 @@
 # Olá! 👋 Bem vindo ao meu profile! 👋
 
 ## 🗼 Skills
-<i class="devicon-cplusplus-plain"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<div>
+  <i class="devicon-cplusplus-plain"></i>
+</div>
                     
 
 > "Conhecimento é poder."
