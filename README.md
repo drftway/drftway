@@ -1,7 +1,7 @@
 # Olá! 👋 Bem vindo ao meu profile! 👋
 
 ## 🗼 Skills
-<div style="display": inline_block><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="drftway-Python" height=30 width=40 src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 </div>
                     
