@@ -1,4 +1,6 @@
-# Olá, bem vindo ao meu profile! 👋
+# Olá! 👋 Bem vindo ao meu profile! 👋
+
+>
 
 ## 👀 Sobre mim
 **Python** e **C++** são minhas linguagens principais, porém trabalho com **Lua**.
