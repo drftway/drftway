@@ -1,11 +1,12 @@
 # Olá! 👋 Bem vindo ao meu profile! 👋
 
 ## 🗼 Skills
+
+### 🏓 Backend
 <div style="display: inline_block"><br>
-  <img align="center" alt="drftway-Python" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="drftway-Python" height=20 width=50 src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 </div>
                     
-
 > "Conhecimento é poder."
 
 <!--
