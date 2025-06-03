@@ -3,7 +3,7 @@
 ## 🗼 Skills
 
 ### 🏓 Backend
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="drftway-Python" height=20 width=60 src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 </div>
                     
