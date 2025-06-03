@@ -1,4 +1,9 @@
-## Hi there 👋
+# Olá, bem vindo ao meu profile! 👋
+
+## 👀 Sobre mim
+**Python** e **C++** são minhas linguagens principais, porém trabalho com **Lua**.
+
+> "Conhecimento é poder."
 
 <!--
 **drftway/drftway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
