@@ -4,7 +4,7 @@
 
 ### 🏓 Backend
 <div style="display: inline_block">
-  <img align="center" alt="drftway-Python" height=25 width=5% src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <img align="center" alt="drftway-Python" height=10% width=10% src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 </div>
                     
 > "Conhecimento é poder."
